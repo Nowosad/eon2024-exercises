@@ -17,6 +17,6 @@ remotes::install_cran(pkg_list)
 
 ## Exercises
 
-1. <exercises1.R>
-2. <exercises2.R>
-3. <exercises3.R>
+1. [Exercises 1](exercises1.R)
+2. [Exercises 2](exercises2.R)
+3. [Exercises 3](exercises3.R)
